@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    <h1>me in kali</h1>
+    <h1 className="">me in kali</h1>
     </>
   )
 }
