@@ -1,12 +1,14 @@
+import Navbar from "./components/Navbar"
+import Header from './components/Header'
 
 
 function App() {
  
 
   return (
-    <>
-    <h1 className="">me in kali</h1>
-    </>
+    <div className="w-full overflow-hidden ">
+    <Header/>
+    </div>
   )
 }
 
